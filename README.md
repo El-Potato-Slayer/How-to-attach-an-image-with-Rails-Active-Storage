@@ -1,0 +1,1 @@
+# How-to-attach-an-image-with-Rails-Active-Storage
