@@ -1,5 +1,5 @@
 # How to attach an image with Rails Active Storage
-This guide makes use of a generated scaffold and makes use of a params controller method and a `form_with` form helper
+This guide makes use of a generated scaffold, where the model is `Car`, and makes use of a params controller method and a `form_with` form helper
 
 ## Setup
 Within the project: 
